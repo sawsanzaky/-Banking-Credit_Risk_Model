@@ -1,0 +1,2 @@
+# Credit_Risk_Model
+Credit risk modeling is the place where data science and fintech meet. It is one of the most important activities conducted in a bank, with the most attention since the recession. At present, it is the only comprehensive credit risk modeling course in Python available online – taking you from preprocessing, through probability of default (PD), loss given default (LGD) and exposure at default (EAD) modeling, all the way to calculating expected loss (EL).
